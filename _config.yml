@@ -14,8 +14,8 @@ url:              http://atstudies.github.io
 baseurl:          /
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Michael Powell'
+  url:            https://cargocollective.com/demfraga
 
 paginate:         5
 
